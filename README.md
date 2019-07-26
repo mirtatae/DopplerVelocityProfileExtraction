@@ -3,9 +3,9 @@
 ## How to use the codes:
 Clone this repository. Set the Matlab directory to this clone. Run the follwoing in the Matlab command line:
 
-  [lo_env,up_env,lo_env2,up_env2]=ExtractDopplerFromECHO(A)
+    [lo_env,up_env,lo_env2,up_env2]=ExtractDopplerFromECHO(A)
   
-where A is your echo image. Note that in the current version of the code, some parameters such as the baseline should be set manually. Change these numbers according to your image size and resolution. Please report any bugs in the Issues section.
+where A is your echo image. For the parameter definitions, see the Matlab code. Note that in the current version of the code, some parameters such as the baseline should be set manually. Change these numbers according to your image size and resolution. Please report any bugs in the Issues section.
 Sample results are in the "Sample Results" folder.
 
 ## Sample image:
