@@ -74,15 +74,3 @@ nrmlize(A) = NaN;
 %
 matrixOut = eL*matrixIn*eR;
 matrixOut = matrixOut./nrmlize;
-
-
-
-
-
-
-
-
-
-
-
-
