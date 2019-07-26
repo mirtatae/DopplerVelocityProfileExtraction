@@ -1,9 +1,12 @@
-How to use the codes:
+# Doppler Velocity Profile Extraction from Echo Images
 
+## How to use the codes:
+Under construction!
 
-Sample image:
+## Sample image:
 Use image A.jpg as a sample image to reproduce the results presented in [1].
 
+## References
 Cite the following papers if you use this code:
 
 [1] Taebi, A.; Sandler, R.H.; Kakavand, B.; Mansy, H.A. Extraction of Peak Velocity Profiles from Doppler Echocardiography Using Image Processing. Bioengineering 2019, 6, 64, doi: 10.3390/bioengineering6030064. 
